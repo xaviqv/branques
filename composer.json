@@ -1,0 +1,13 @@
+{
+    "name": "xaviqv/branques",
+    "description": "Composer branches test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "XaviQV",
+            "email": "xaviqv@gmail.com"
+        }
+    ],
+    "require": {}
+}
